@@ -37,3 +37,6 @@ CORVUS_MAINTAINER=KSSRAO
 
 # Gapps
 USE_GAPPS := true
+
+# Compile with Proton Clang
+USE_PROTON=true
